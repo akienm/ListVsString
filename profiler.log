@@ -1,0 +1,104 @@
+Thu Jul 09 10:33:04 2015    profiler.raw
+
+         45 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 ListVsString.py:21(main)
+       21    0.000    0.000    0.000    0.000 ListVsString.py:17(IsColorInList)
+       21    0.000    0.000    0.000    0.000 ListVsString.py:13(IsColorInString)
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Thu Jul 09 10:34:44 2015    profiler.raw
+
+         844 function calls in 0.000 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.000    0.000 ListVsString.py:21(main)
+      420    0.000    0.000    0.000    0.000 ListVsString.py:17(IsColorInList)
+      420    0.000    0.000    0.000    0.000 ListVsString.py:13(IsColorInString)
+        1    0.000    0.000    0.000    0.000 {range}
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Thu Jul 09 10:35:07 2015    profiler.raw
+
+         8404 function calls in 0.005 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.002    0.002    0.005    0.005 ListVsString.py:21(main)
+     4200    0.001    0.000    0.001    0.000 ListVsString.py:17(IsColorInList)
+     4200    0.001    0.000    0.001    0.000 ListVsString.py:13(IsColorInString)
+        1    0.000    0.000    0.000    0.000 {range}
+        1    0.000    0.000    0.005    0.005 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Thu Jul 09 10:35:33 2015    profiler.raw
+
+         84004 function calls in 0.045 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.021    0.021    0.045    0.045 ListVsString.py:21(main)
+    42000    0.014    0.000    0.014    0.000 ListVsString.py:17(IsColorInList)
+    42000    0.010    0.000    0.010    0.000 ListVsString.py:13(IsColorInString)
+        1    0.000    0.000    0.000    0.000 {range}
+        1    0.000    0.000    0.045    0.045 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Thu Jul 09 10:35:58 2015    profiler.raw
+
+         840004 function calls in 0.454 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.214    0.214    0.454    0.454 ListVsString.py:21(main)
+   420000    0.138    0.000    0.138    0.000 ListVsString.py:17(IsColorInList)
+   420000    0.101    0.000    0.101    0.000 ListVsString.py:13(IsColorInString)
+        1    0.000    0.000    0.000    0.000 {range}
+        1    0.000    0.000    0.454    0.454 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Thu Jul 09 12:14:30 2015    profiler.raw
+
+         8400004 function calls in 4.961 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    2.280    2.280    4.961    4.961 ListVsString.py:21(main)
+  4200000    1.646    0.000    1.646    0.000 ListVsString.py:17(IsColorInList)
+  4200000    1.032    0.000    1.032    0.000 ListVsString.py:13(IsColorInString)
+        1    0.003    0.003    0.003    0.003 {range}
+        1    0.000    0.000    4.961    4.961 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+Thu Jul 09 12:17:39 2015    profiler.raw
+
+         84000004 function calls in 45.956 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1   21.634   21.634   45.956   45.956 ListVsString.py:21(main)
+ 42000000   13.991    0.000   13.991    0.000 ListVsString.py:17(IsColorInList)
+ 42000000   10.294    0.000   10.294    0.000 ListVsString.py:13(IsColorInString)
+        1    0.037    0.037    0.037    0.037 {range}
+        1    0.000    0.000   45.956   45.956 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
